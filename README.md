@@ -1,6 +1,13 @@
-### Hi there 👋 i am:
-# Wiliam Roza, nice to meet you.
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=devfrontwill&show_icons=true)
+<h1>Hi there 👋, i am <br>
+Wiliam Roza👨‍💻,nice to meet you.</h1>
+<h2>Welcome to my profile!</h2>
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devfrontwill)
+
+![badge](https://img.shields.io/github/followers/devfrontwill?style=social)
+
+![Status](https://github-readme-stats.vercel.app/api?username=devfrontwill&theme=highcontrast&show_icons=true)
+
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=devfrontwill&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
