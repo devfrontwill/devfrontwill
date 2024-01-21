@@ -2,7 +2,7 @@
 Wiliam Roza👨‍💻,nice to meet you.</h1>
 <h2>Welcome to my profile!</h2>
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devfrontwill)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devfrontwill) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://devfrontwill-porfolio.vercel.app/)
 
 ![badge](https://img.shields.io/github/followers/devfrontwill?style=social)
 
